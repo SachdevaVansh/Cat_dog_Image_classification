@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "com_in_ineuron_ai_utils",
+			"path": "../../Image-classification-Project/com_in_ineuron_ai_utils"
+		},
+		{
+			"name": "Cat Dog Image Classification",
+			"path": "."
+		},
+		{
+			"name": "templates",
+			"path": "../../Image-classification-Project/templates"
+		},
+		{
+			"name": "static",
+			"path": "../../Image-classification-Project/static"
+		},
+		{
+			"name": "prediction",
+			"path": "../../Image-classification-Project/prediction"
+		},
+		{
+			"name": "notebooks",
+			"path": "../../Image-classification-Project/notebooks"
+		},
+		{
+			"name": "model",
+			"path": "../../Image-classification-Project/model"
+		}
+	],
+	"settings": {}
+}
